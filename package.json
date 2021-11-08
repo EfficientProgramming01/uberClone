@@ -9,10 +9,16 @@
   },
   "dependencies": {
     "expo": "~43.0.0",
+    "expo-location": "~13.0.4",
     "expo-status-bar": "~1.1.0",
     "react": "17.0.1",
     "react-dom": "17.0.1",
     "react-native": "0.64.2",
+    "react-native-elements": "^3.4.2",
+    "react-native-maps": "0.28.0",
+    "react-native-safe-area-context": "^3.3.2",
+    "react-native-status-bar-height": "^2.6.0",
+    "react-native-vector-icons": "^9.0.0",
     "react-native-web": "0.17.1"
   },
   "devDependencies": {
