@@ -20,7 +20,7 @@
       "supportsTablet": true,
       "bundleIdentifier":"com.uberclone",
       "config":{
-        "googleMapsApiKey" :"KEY"
+        "googleMapsApiKey" :"AIzaSyBQivdVNxU7quHhW_ARw2VuXKmHVwXhNMk"
       }
     },
     "android": {
